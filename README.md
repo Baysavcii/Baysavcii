@@ -16,10 +16,6 @@ Ben **.NET Core geliştirici olarak modern web uygulamaları ve mikroservisler g
 🔹 E-Ticaret sitesi geliştiriyorum.
 🔹 Restoran ve Kafe sipariş uygulaması geliştiriyorum.
 
-### 📈 GitHub İstatistiklerim
-
-![Yiğit's GitHub stats](https://github-readme-stats.vercel.app/api?username=yigitsavci&show_icons=true&theme=dark)
-
 ### 📫 Benimle İletişime Geçin
 
 - **Portföy:** [www.yigitsavci.com](https://www.yigitsavci.com) *(Yakında!)*
